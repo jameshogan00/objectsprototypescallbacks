@@ -1,0 +1,1 @@
+More javascript practice on constructor notation, object prototypes and callbacks
